@@ -1,0 +1,29 @@
+{
+  "name": "uc-first-array",
+  "version": "1.0.0",
+  "description": "Uppercase first character of each element in arrays of strings.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/uc-first-array.git"
+  },
+  "keywords": [
+    "uppercase",
+    "string",
+    "array",
+    "first",
+    "character"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/uc-first-array/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/uc-first-array#readme",
+  "dependencies": {
+    "ucfirst": "^1.0.0"
+  }
+}
