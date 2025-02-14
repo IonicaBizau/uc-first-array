@@ -1,6 +1,6 @@
 {
   "name": "uc-first-array",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Uppercase first character of each element in arrays of strings.",
   "main": "lib/index.js",
   "scripts": {
@@ -37,6 +37,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
