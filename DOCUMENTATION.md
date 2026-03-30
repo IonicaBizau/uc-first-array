@@ -12,3 +12,13 @@ Uppercase first character of each element in arrays of strings.
 #### Return
 - **Array** An array of strings having first characters uppercase.
 
+ucFirst
+Uppercase first character of a string.
+
+#### Params
+
+- **String** `word`: The input string.
+
+#### Return
+- **String** The input string with the first character uppercased.
+
